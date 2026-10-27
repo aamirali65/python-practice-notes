@@ -1,4 +1,4 @@
-# PythonDays
+# Python Practice Notes
 
 Day-by-day Python learning notes, one file per topic — the order roughly follows how the language is usually taught.
 
